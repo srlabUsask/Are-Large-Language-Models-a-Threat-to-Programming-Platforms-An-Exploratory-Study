@@ -11,11 +11,11 @@ This is the replication package along with the result and the analysis of the ac
 <p>Palash R. Roy, Graduate Student, University of Saskatchewan
 </br> <b>Google Scholar: </b> https://scholar.google.ca/citations?user=Vy_sw5UAAAAJ&hl=en&oi=sra
 </p>
-<p>Dr. Banani Roy, Professor, University of Saskatchewan
-</br> <b>Google Scholar: </b> https://scholar.google.ca/citations?user=3OkymdoAAAAJ&hl=en&oi=ao
-</p>
 <p>Dr. Zadia Codabux, Professor, University of Saskatchewan
 </br> <b>Google Scholar: </b> https://scholar.google.ca/citations?user=u8hu_T0AAAAJ&hl=en&oi=ao
+</p>
+<p>Dr. Banani Roy, Professor, University of Saskatchewan
+</br> <b>Google Scholar: </b> https://scholar.google.ca/citations?user=3OkymdoAAAAJ&hl=en&oi=ao
 </p>
 
 ## Honorary Mentions
