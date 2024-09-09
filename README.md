@@ -23,9 +23,6 @@ We would like to thank the following undergraduate students who have contributed
 <p>Kartik Mittal, University of Saskatchewan
 </br> <b>Github: </b> https://github.com/kartik55463
 </p>
-<p>Kartik Mittal, University of Saskatchewan
-</br> <b>Github: </b> https://github.com/kartik55463
-</p>
 <p>Favour Atser, University of Saskatchewan
 </br> <b>Mail: </b> zox413@mail.usask.ca
 </p>
